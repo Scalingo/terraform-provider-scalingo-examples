@@ -2,8 +2,8 @@
 
 ## How to use this repository
 
-In every directory there are some terraform examples to manipulate scalingo resources.
-To use it, you just have to init it and provider a Scalingo API Token
+In every directory there are some Terraform examples to manipulate Scalingo resources.
+To use it, you just have to initialize it and provide a Scalingo API Token:
 
 ```
 terraform init
@@ -14,4 +14,4 @@ terraform apply
 
 ## Existing examples:
 
-* `notifiers`: Creates how to create slack or emails notifiers
+* `notifiers`: how to create Slack or email notifiers
