@@ -14,4 +14,5 @@ terraform apply
 
 ## Existing examples:
 
-* `notifiers`: how to create Slack or email notifiers
+* `container_types`: defines a formation of container types.
+* `notifiers`: creates Slack or email notifiers.
